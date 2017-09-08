@@ -1,2 +1,0 @@
-# SeleniumDemoonFacebook
-TestCofiguration
